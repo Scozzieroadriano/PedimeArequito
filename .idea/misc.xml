@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_detail_and_update_product.xml" value="1.1978922716627636" />
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_main.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_register.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_restaurant_product.xml" value="1.1978922716627636" />
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.523" />
+        <entry key="..\:/Users/Adriano/Desktop/Proyecto/Pedime Arequito/Pedime Arequito/PedimeArequito/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2975" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/card_radius.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/edittext_custom.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_arrow_left.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_bag.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_baseline_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_home.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_on.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_person.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_person_pin_gray.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_profile.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/ic_units.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/rounded_buttom.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/drawable/splash_screen.xml" value="0.3828125" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_categories_commerce_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_adress_create.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_adress_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_adress_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_orders_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_payment_method.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_payments_installments.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_payments_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_product_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_products_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_shopping_bag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_client_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_comercio_orders_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_delivery_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_delivery_orders_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_delivery_orders_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_detail_and_update_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_my_list_product.xml" value="0.33" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_restaurant_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_save_image.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/activity_select_roles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_address.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_categories.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_commerces.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_list_product.xml" value="0.5" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_order_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_orders.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_orders_comercio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_product.xml" value="0.5" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_roles.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/cardview_shopping_bag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_client_list_comercios.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_client_order_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_client_orders.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_client_proflile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_comercio_create_categori.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_comercio_orders.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_comercio_orders_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_delivery_order_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_delivery_orders.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/layout/fragment_restaurant_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.221875" />
+        <entry key="..\:/Users/scozz/Downloads/Pedime Arequito/PedimeArequito/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

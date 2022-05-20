@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786766637549",
+    "project_id": "kotlindelivery-19d1d",
+    "storage_bucket": "kotlindelivery-19d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786766637549:android:1d2b828143793b2e335fe4",
+        "android_client_info": {
+          "package_name": "com.example.pedimearequito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786766637549-esvfsnp3mtl3e8mb2epjq44ehbf1o8c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedimearequito",
+            "certificate_hash": "4ddb0b217dae127799948e52802856ef63a59420"
+          }
+        },
+        {
+          "client_id": "786766637549-a7325703bdgjftdflt1qv6flubpnu982.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzG859OIdVrp4R6G1SFVPAJcwklboFJsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786766637549-a7325703bdgjftdflt1qv6flubpnu982.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

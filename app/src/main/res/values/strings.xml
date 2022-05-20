@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arequito Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="google_map_api_key">AIzaSyA5_YAb0Re_wiiXksBwngXDJGppIkdv59E</string>
+
+</resources>

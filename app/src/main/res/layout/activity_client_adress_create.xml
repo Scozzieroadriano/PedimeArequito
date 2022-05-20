@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.client.adress.create.ClientAdressCreateActivity">
+
+    <include layout="@layout/action_bar"/>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Completa estos datos"
+            android:textSize="17sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="15dp"/>
+
+        <EditText
+            android:id="@+id/edittext_address"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Dirección"
+            android:background="@drawable/edittext_custom"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="10dp"
+            android:padding="15dp"
+            android:inputType="text" />
+        <EditText
+            android:id="@+id/edittext_neighborhood"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Barrio (Norte/Centro/Sur)"
+            android:background="@drawable/edittext_custom"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="10dp"
+            android:padding="15dp"
+            android:inputType="text" />
+        <EditText
+            android:id="@+id/edittext_ref_point"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Punto de ubicación"
+            android:background="@drawable/edittext_custom"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="10dp"
+            android:padding="15dp"
+            android:inputType="text"
+            android:focusable="false"
+            android:clickable="true"
+            android:cursorVisible="false"/>
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_create_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crear Direccion"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="30dp"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

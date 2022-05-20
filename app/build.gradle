@@ -1,0 +1,78 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "com.example.pedimearequito"
+        minSdk 23
+        targetSdk 31
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+    //IMAGEN CIRCULAR
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    //pick camera // galeria
+    implementation 'com.github.dhaval2404:imagepicker:2.1'
+    //carga de proceso
+    implementation 'com.github.tommasoberlose:progress-dialog:1.0.0'
+    //slide image
+    implementation 'com.github.denzcoskun:ImageSlideshow:0.1.0'
+
+    implementation 'com.google.maps.android:maps-ktx:3.2.0'
+    implementation 'com.google.maps.android:maps-utils-ktx:3.2.0'
+    implementation 'com.google.android.gms:play-services-maps:18.0.2'
+    implementation 'com.google.android.gms:play-services-location:19.0.1'
+    implementation 'com.google.maps.android:android-maps-utils:2.2.3'
+
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    implementation 'com.github.nkzawa:socket.io-client:0.6.0'
+
+
+    implementation 'com.github.malikdawar:drawroute:1.5'
+    implementation 'io.stormotion:creditcardflow:1.0.0'
+
+    implementation platform('com.google.firebase:firebase-bom:29.0.3')
+
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+
+
+}
